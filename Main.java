@@ -27,7 +27,7 @@ public class Main {
 			}
 		});
 	}
-	//atualização
+	//atualização 22
 	public static void novajanela() throws Exception
 	{
 		Class.forName("com.mysql.jdbc.Driver");
